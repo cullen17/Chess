@@ -1,0 +1,10 @@
+1.e4 e5
+2.Nf3 d6
+3.d4 exd4
+4.Qxd4 Nc6
+5.Bb5 Bd7
+6.Bxc6 Bxc6
+7.Nc3 Nf6
+8.Bg5 Be7
+9.0-0-0 0-0
+10.Rhe1 .
