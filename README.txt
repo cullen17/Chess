@@ -1,6 +1,6 @@
 "Chess"
 
-This program was written by Cullen Seaton as a hobby project to improve Python coding skills generally and in particular to gain experience with data structures, string handling, and artificial intelligence. It relies on some basic python libraries like "sys, "time", and "random" but all ai algorithms and data structures are completely homemade. This program is still under development.
+This program was written by Cullen Seaton as a hobby project to improve Python coding skills generally and in particular to gain experience with data structures, string handling, and artificial intelligence. It relies on some basic python libraries like "sys, "time", and "random" but all ai algorithms and data structures are completely homemade. This program is still under development. I'm also using this project as an opportunity to gain experience using GitHub.
 
 Instructions for use:
 
@@ -24,3 +24,5 @@ Summary of Modules:
 5. Classes - Contains all data structures and associated functions
 
 6. Chess Bot - Contains all functions related to the operation of the artificial intelligence engine.
+
+
